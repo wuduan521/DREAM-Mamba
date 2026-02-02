@@ -1,3 +1,3 @@
 # DREAM-Mamba
 
-The source code will be made available upon the acceptance of this article.
+Upon acceptance of this paper, the source code and related data will be made publicly available.
